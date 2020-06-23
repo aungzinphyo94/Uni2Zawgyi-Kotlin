@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Zawgyi2Uni-Kotlin"
